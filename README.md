@@ -4,7 +4,7 @@
 
 ## 🌐 Site en ligne
 
-👉 [Accéder au site de la formation](https://tonpseudo.github.io/formation-mbujimayi/)
+👉 [Accéder au site de la formation](https://kalsimiska.github.io/formation-mbujimayi/)
 
 ---
 
