@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kalsimiska.github.io/Formation-Mbujimayi_high_tech/sitemap.xml
